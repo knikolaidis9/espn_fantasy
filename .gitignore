@@ -1,0 +1,5 @@
+config.json
+state.tmp
+__pycache__/
+run_bot.bat
+*.log
