@@ -98,9 +98,11 @@
   "31cea06a-f115-4ef6-9223-db913136d532": "EXECUTED",
   "863fc696-4bf4-42a8-adb3-557040b7fe9e": "EXECUTED",
   "2029fcd0-d9be-4a3e-a98c-16800b1060e2": "EXECUTED",
-  "3393761e-3e41-4dc6-b20b-e80861ef3d4f": "EXECUTED"
+  "3393761e-3e41-4dc6-b20b-e80861ef3d4f": "EXECUTED",
+  "3acffcbb-c359-453c-b1b5-c5139553ffe2": "PENDING",
+  "fb76aa69-6446-4cfe-9a8c-8031f74bb0df": "CANCELED"
  },
- "last_daily": "2026-11-02",
+ "last_daily": "2026-11-03",
  "last_weekly": "2026-W45",
  "auth_alerted": false,
  "tg_offset": 983600521
