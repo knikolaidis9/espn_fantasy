@@ -170,7 +170,10 @@
   "86a6de73-4db4-4a41-a436-c8e68c474b49": "EXECUTED",
   "2b4ce1bf-4772-4b1a-b72b-5ea7f08f0b64": "EXECUTED",
   "19650d39-5b51-46ea-8f30-9f96bba6f011": "CANCELED",
-  "243f50db-e022-4ffa-a048-3085dcddebdc": "EXECUTED"
+  "243f50db-e022-4ffa-a048-3085dcddebdc": "EXECUTED",
+  "d2316246-71d5-4f06-b808-b8ae75231fa1": "CANCELED",
+  "34650e2a-9762-44ef-a92b-abb689253aeb": "CANCELED",
+  "fc88d020-5de7-41b9-ba74-cdfd72a84fee": "CANCELED"
  },
  "last_daily": "2026-11-08",
  "last_weekly": "2026-W45",
