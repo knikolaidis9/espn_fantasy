@@ -259,10 +259,12 @@
   "2a63bc34-a797-43a1-bc76-35336c2cd771": "PENDING",
   "93feba11-5b00-41f4-a3fd-ec24fed80178": "EXECUTED",
   "34eb3837-0ef1-4132-8ca8-4f53af9d1f4a": "CANCELED",
-  "5b5ab72f-5c50-48fb-a2bc-4509dff2faa9": "EXECUTED"
+  "5b5ab72f-5c50-48fb-a2bc-4509dff2faa9": "EXECUTED",
+  "a7763321-8bf6-4d22-8574-cee3d16e481d": "EXECUTED",
+  "bc0d31c9-b00a-4e17-a0d2-92fd8926845b": "EXECUTED"
  },
- "last_daily": "2026-11-22",
- "last_weekly": "2026-W47",
+ "last_daily": "2026-11-23",
+ "last_weekly": "2026-W48",
  "auth_alerted": false,
  "tg_offset": 983600522
 }
