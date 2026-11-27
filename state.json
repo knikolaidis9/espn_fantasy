@@ -312,7 +312,8 @@
   "0bddb5ab-a912-4f2a-b903-9446cb06ffdd": "EXECUTED",
   "1928c3fb-7000-4165-b63d-c34b9e4eb20c": "EXECUTED",
   "ab7a2780-f04c-406c-a656-7a332648e03e": "CANCELED",
-  "5de8a829-05aa-404d-a145-0410d2e5978d": "CANCELED"
+  "5de8a829-05aa-404d-a145-0410d2e5978d": "CANCELED",
+  "5eae8c95-eb38-43fe-b96b-d79a9255d923": "PENDING"
  },
  "last_daily": "2026-11-26",
  "last_weekly": "2026-W48",
