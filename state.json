@@ -321,9 +321,21 @@
   "f23dc0b4-dd3c-4248-87aa-bf70115bb632": "EXECUTED",
   "b70d51da-ea58-4dc1-8450-820ac54f2b58": "CANCELED",
   "02d9291f-a938-4071-86b2-eb07a3f85519": "CANCELED",
-  "fab388b7-48f3-4ccb-8166-148d5deb172d": "PENDING"
+  "fab388b7-48f3-4ccb-8166-148d5deb172d": "PENDING",
+  "8b3ebcab-0f26-4e51-ba6a-20107845a910": "CANCELED",
+  "4be8b980-2768-42b9-aa0a-2bc8b5b664fe": "CANCELED",
+  "d933c9e5-4abf-464b-844f-a8db42a42884": "PENDING",
+  "6a8ceb6f-cbe6-490c-8125-a499b81cd83c": "",
+  "e60ebe38-34cf-4655-a33a-0b2535331b93": "EXECUTED",
+  "b94710f3-c59e-44fb-beb9-a24130f0aa7b": "EXECUTED",
+  "2afbf2f6-4903-4080-a86d-4a1bf462a7e0": "EXECUTED",
+  "a1771e04-c582-4d43-9b55-91ec1aca6348": "EXECUTED",
+  "f9346b0a-7448-4e59-896e-92b2616af6e8": "CANCELED",
+  "e6bbfd8a-af67-47f5-8988-d6e438043ec2": "EXECUTED",
+  "dea63713-9d2b-458b-9b44-2c5c06583cdb": "EXECUTED",
+  "304202e6-a4a5-44da-af9f-4eb93b973566": "CANCELED"
  },
- "last_daily": "2026-11-27",
+ "last_daily": "2026-11-28",
  "last_weekly": "2026-W48",
  "auth_alerted": false,
  "tg_offset": 983600522
