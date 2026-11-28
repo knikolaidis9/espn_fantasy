@@ -314,7 +314,14 @@
   "ab7a2780-f04c-406c-a656-7a332648e03e": "CANCELED",
   "5de8a829-05aa-404d-a145-0410d2e5978d": "CANCELED",
   "5eae8c95-eb38-43fe-b96b-d79a9255d923": "PENDING",
-  "de03c6d2-c9ef-4fc5-b444-bcb2d1009ce2": "EXECUTED"
+  "de03c6d2-c9ef-4fc5-b444-bcb2d1009ce2": "EXECUTED",
+  "e152aea6-4738-45f6-bf2e-8bb25f211847": "EXECUTED",
+  "c1d3db09-5439-4e5e-bd30-d9b2c64667f0": "EXECUTED",
+  "f18e79b7-7813-4769-abdb-5b70385bcb27": "CANCELED",
+  "f23dc0b4-dd3c-4248-87aa-bf70115bb632": "EXECUTED",
+  "b70d51da-ea58-4dc1-8450-820ac54f2b58": "CANCELED",
+  "02d9291f-a938-4071-86b2-eb07a3f85519": "CANCELED",
+  "fab388b7-48f3-4ccb-8166-148d5deb172d": "PENDING"
  },
  "last_daily": "2026-11-27",
  "last_weekly": "2026-W48",
